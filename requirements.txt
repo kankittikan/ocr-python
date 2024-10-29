@@ -1,3 +1,4 @@
 fastapi[standard]>=0.115.4
 pdf2image>=1.17.0
 easyocr>=1.7.2
+pyjwt>=2.9.0
